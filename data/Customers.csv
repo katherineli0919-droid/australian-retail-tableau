@@ -1,0 +1,91 @@
+Customer ID,Customer Name,Age,Gender,Segment,City,State
+C001,Chloe Smith,32,Male,Consumer,Geelong,VIC
+C002,Lucas Scott,46,Male,Corporate,Sydney,NSW
+C003,Ruby Evans,61,Female,Home Office,Melbourne,VIC
+C004,Sophie Chen,44,Female,Consumer,Adelaide,SA
+C005,Chloe Mitchell,41,Male,Consumer,Whyalla,SA
+C006,Lily Lee,33,Female,Consumer,Wollongong,NSW
+C007,Chloe Young,40,Male,Corporate,Wollongong,NSW
+C008,Leo Thomas,63,Male,Consumer,Gold Coast,QLD
+C009,Ethan Taylor,62,Female,Consumer,Gold Coast,QLD
+C010,Ella Chen,31,Female,Consumer,Melbourne,VIC
+C011,James Brown,29,Male,Home Office,Perth,WA
+C012,Oscar Anderson,41,Male,Consumer,Gold Coast,QLD
+C013,Amelia Chen,45,Female,Consumer,Adelaide,SA
+C014,Zoe King,39,Male,Consumer,Melbourne,VIC
+C015,William Roberts,48,Female,Corporate,Sydney,NSW
+C016,Ava King,38,Female,Consumer,Canberra,ACT
+C017,Sienna Patel,49,Male,Corporate,Brisbane,QLD
+C018,Sophie Walker,21,Female,Consumer,Newcastle,NSW
+C019,Daniel Harris,52,Male,Consumer,Fremantle,WA
+C020,Jack Martin,29,Male,Consumer,Mount Gambier,SA
+C021,Thomas Walker,60,Female,Corporate,Perth,WA
+C022,James Thomas,21,Female,Consumer,Newcastle,NSW
+C023,James Nguyen,38,Male,Consumer,Whyalla,SA
+C024,Daniel Smith,65,Female,Consumer,Melbourne,VIC
+C025,Isla Scott,23,Male,Home Office,Fremantle,WA
+C026,Grace Chen,50,Male,Consumer,Ballarat,VIC
+C027,Hannah Wilson,55,Female,Consumer,Townsville,QLD
+C028,Sophie Walker,65,Female,Consumer,Whyalla,SA
+C029,Thomas Mitchell,38,Male,Corporate,Fremantle,WA
+C030,Sophie King,61,Male,Consumer,Sydney,NSW
+C031,Max Smith,33,Male,Corporate,Sydney,NSW
+C032,Lily Turner,21,Male,Corporate,Newcastle,NSW
+C033,Daniel Scott,41,Male,Corporate,Perth,WA
+C034,Amelia Evans,34,Female,Consumer,Newcastle,NSW
+C035,Daniel Harris,37,Male,Consumer,Wollongong,NSW
+C036,Isla Scott,55,Female,Home Office,Brisbane,QLD
+C037,Jack Roberts,34,Female,Consumer,Townsville,QLD
+C038,Emily Wilson,52,Male,Consumer,Bunbury,WA
+C039,Lily Wright,52,Female,Corporate,Mount Gambier,SA
+C040,James Lee,24,Male,Consumer,Hobart,TAS
+C041,Ella Campbell,44,Female,Consumer,Hobart,TAS
+C042,Ava Roberts,57,Female,Consumer,Gold Coast,QLD
+C043,Lily Young,31,Male,Home Office,Geelong,VIC
+C044,Ruby Smith,25,Male,Home Office,Melbourne,VIC
+C045,Samuel White,56,Female,Home Office,Newcastle,NSW
+C046,Grace White,49,Female,Home Office,Newcastle,NSW
+C047,Benjamin Harris,55,Female,Home Office,Wollongong,NSW
+C048,Lucas King,36,Female,Consumer,Melbourne,VIC
+C049,James Harris,47,Female,Corporate,Hobart,TAS
+C050,Max Lee,34,Male,Corporate,Sydney,NSW
+C051,Isla Roberts,51,Female,Consumer,Launceston,TAS
+C052,Oscar Smith,37,Female,Consumer,Devonport,TAS
+C053,Oliver Scott,22,Female,Consumer,Geelong,VIC
+C054,William Wilson,50,Female,Corporate,Sydney,NSW
+C055,Oliver Young,59,Female,Consumer,Sydney,NSW
+C056,Lily White,59,Female,Corporate,Bunbury,WA
+C057,Lily Scott,64,Female,Consumer,Gold Coast,QLD
+C058,Grace Roberts,48,Male,Consumer,Launceston,TAS
+C059,Zoe Scott,35,Female,Corporate,Sydney,NSW
+C060,William Martin,51,Male,Consumer,Brisbane,QLD
+C061,Benjamin Baker,49,Female,Corporate,Fremantle,WA
+C062,Noah White,37,Male,Consumer,Sydney,NSW
+C063,Oscar Patel,62,Female,Consumer,Sydney,NSW
+C064,Lily Lee,61,Male,Corporate,Bunbury,WA
+C065,Henry Chen,56,Male,Consumer,Whyalla,SA
+C066,Leo Evans,63,Female,Consumer,Melbourne,VIC
+C067,Oliver Martin,54,Female,Home Office,Geelong,VIC
+C068,Oliver Scott,28,Female,Corporate,Fremantle,WA
+C069,Sienna Thomas,26,Male,Home Office,Gold Coast,QLD
+C070,Ethan Patel,34,Male,Consumer,Canberra,ACT
+C071,Chloe Wright,55,Male,Home Office,Brisbane,QLD
+C072,Hannah Nguyen,44,Male,Corporate,Sydney,NSW
+C073,Jack Taylor,20,Male,Consumer,Townsville,QLD
+C074,Oliver Roberts,40,Male,Consumer,Sydney,NSW
+C075,Amelia Mitchell,46,Female,Consumer,Sydney,NSW
+C076,Ella King,30,Female,Consumer,Fremantle,WA
+C077,Ethan Nguyen,26,Female,Consumer,Brisbane,QLD
+C078,Amelia Evans,62,Female,Corporate,Melbourne,VIC
+C079,Ethan Brown,62,Male,Corporate,Newcastle,NSW
+C080,Mia Patel,23,Male,Consumer,Wollongong,NSW
+C081,Grace Wright,57,Female,Consumer,Geelong,VIC
+C082,Isla King,20,Female,Consumer,Hobart,TAS
+C083,Lily Evans,59,Female,Corporate,Wollongong,NSW
+C084,Jack Harris,54,Male,Corporate,Melbourne,VIC
+C085,Samuel Evans,45,Male,Consumer,Fremantle,WA
+C086,Lucas Martin,23,Female,Consumer,Fremantle,WA
+C087,Lucas Evans,44,Male,Consumer,Ballarat,VIC
+C088,Noah Smith,48,Male,Consumer,Wollongong,NSW
+C089,Ella Young,36,Female,Home Office,Wollongong,NSW
+C090,Noah Taylor,65,Female,Corporate,Melbourne,VIC

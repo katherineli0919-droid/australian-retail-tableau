@@ -1,0 +1,37 @@
+Product ID,Product Name,Category,Sub-category,Cost,List Price
+P001,Smartphone Lite,Technology,Phones,420,699
+P002,Smartphone Pro,Technology,Phones,680,1099
+P003,Wireless Handset,Technology,Phones,95,169
+P004,Wireless Mouse,Technology,Accessories,18,39
+P005,Mechanical Keyboard,Technology,Accessories,62,119
+P006,USB-C Hub,Technology,Accessories,28,59
+P007,Laptop Stand,Technology,Accessories,31,69
+P008,Webcam HD,Technology,Accessories,45,89
+P009,Business Laptop,Technology,Computers,780,1299
+P010,Desktop Mini,Technology,Computers,520,899
+P011,24-inch Monitor,Technology,Computers,145,269
+P012,27-inch Monitor,Technology,Computers,230,399
+P013,Ergonomic Chair,Furniture,Chairs,185,329
+P014,Task Chair,Furniture,Chairs,96,179
+P015,Visitor Chair,Furniture,Chairs,72,139
+P016,Standing Desk,Furniture,Tables,310,549
+P017,Compact Desk,Furniture,Tables,145,279
+P018,Meeting Table,Furniture,Tables,390,699
+P019,Tall Bookcase,Furniture,Bookcases,125,239
+P020,Low Shelf Unit,Furniture,Bookcases,78,149
+P021,Desk Lamp,Furniture,Furnishings,24,55
+P022,Floor Mat,Furniture,Furnishings,19,49
+P023,Pinboard,Furniture,Furnishings,28,65
+P024,A4 Copy Paper,Office Supplies,Paper,8,16
+P025,Premium Notebook,Office Supplies,Paper,5,14
+P026,Ring Binder Pack,Office Supplies,Binders,9,21
+P027,Archive Folder Box,Office Supplies,Binders,12,27
+P028,Plastic Storage Box,Office Supplies,Storage,16,35
+P029,Mobile Pedestal,Office Supplies,Storage,92,179
+P030,Filing Cabinet,Office Supplies,Storage,165,299
+P031,Marker Set,Office Supplies,Art,7,18
+P032,Coloured Pencil Set,Office Supplies,Art,6,16
+P033,Shipping Labels,Office Supplies,Labels,5,13
+P034,Name Badge Labels,Office Supplies,Labels,4,11
+P035,Stapler Set,Office Supplies,Fasteners,8,20
+P036,Paper Clip Pack,Office Supplies,Fasteners,2.5,7

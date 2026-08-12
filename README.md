@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/30985501/README.md)
 # 澳大利亚零售销售绩效仪表板
 
 这是我的第一个 Tableau 求职作品集项目。项目使用模拟零售数据，构建交互式仪表板，从时间、产品类别、客户群体和澳大利亚各州等维度分析销售表现。
@@ -16,7 +15,14 @@
 
 ## 仪表板预览
 
-> 仪表板截图尚未上传。上传至 `images/dashboard-preview.png` 后将在此处展示。
+![Australian Retail Sales Performance Dashboard](images/dashboard-preview.png)
+
+## 项目文件
+
+- [下载 Tableau 打包工作簿](dashboard/Australian_Retail_Sales_Dashboard.twbx)
+- [查看原始数据](data/)
+
+工作簿采用 `.twbx` 格式，已包含项目使用的 Excel 数据源，可直接使用 Tableau Desktop 或 Tableau Public 打开。
 
 ## 数据集与数据模型
 
@@ -142,16 +148,17 @@ NSW、QLD 和 VIC 合计贡献约 **73%** 的总销售额。其中 NSW 是最大
 - Microsoft Excel
 - GitHub
 
-## 计划中的项目文件结构
-
-> 当前仓库暂时只包含 `README.md`，其余项目文件将在后续补充。
+## 项目文件结构
 
 ```text
 ├── README.md
-├── data/
-│   └── Tableau_BA_Retail_Data_Sources.xlsx
 ├── dashboard/
 │   └── Australian_Retail_Sales_Dashboard.twbx
+├── data/
+│   ├── Orders.csv
+│   ├── Customers.csv
+│   ├── Products.csv
+│   └── Regions.csv
 └── images/
     └── dashboard-preview.png
 ```
