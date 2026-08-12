@@ -17,6 +17,12 @@
 
 ![Australian Retail Sales Performance Dashboard](images/dashboard-preview.png)
 
+### 在线交互版本
+
+[▶ 在 Tableau Public 中打开交互式仪表板](https://public.tableau.com/app/profile/w.w2790/viz/Australiaretail_17865489498050/RetailSalesPerformanceDashboard)
+
+可使用年份、月份和客户群体筛选器探索不同业务维度。
+
 ## 项目文件
 
 - [下载 Tableau 打包工作簿](dashboard/Australian_Retail_Sales_Dashboard.twbx)
